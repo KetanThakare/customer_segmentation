@@ -1,1 +1,1 @@
-# marketing_department_unsupervised_learning
+# customer segmentation
