@@ -1,7 +1,6 @@
 # Customer Segmentation
 
 # Table of contents
-- [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
 - [License](#license)
