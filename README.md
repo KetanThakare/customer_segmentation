@@ -1,16 +1,10 @@
-# customer segmentation
+# Customer Segmentation
 
 # Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
 - [License](#license)
-
-
-# Installation
-[(Back to top)](#table-of-contents)
-
-
 
 
 # Usage
