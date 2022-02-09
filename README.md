@@ -32,7 +32,7 @@ CRISP-DM framework was followed.
 \
 &nbsp;
 
-**Business and Data understanding:** The dataset used can be found [here](Marketing_data.csv) and was sourced from Kaggle.
+**Business and Data understanding:** The dataset used can be found [here](Marketing_data.csv).
 
 **Data Preparation:** The notebook can be found [here](EDA.ipynb)
 
