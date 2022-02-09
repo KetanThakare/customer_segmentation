@@ -8,7 +8,6 @@ In this project, we assume a hypothetical scenario wherein we are a part of mark
 
 
 # Usage
-[(Back to top)](#table-of-contents)
 
 To use this project, first clone the repo on your device by pasting the commands below:
 
@@ -19,7 +18,6 @@ To use this project, first clone the repo on your device by pasting the commands
 
 
 # Development
-[(Back to top)](#table-of-contents)
 
 CRISP-DM framework was followed.
 
@@ -31,6 +29,5 @@ CRISP-DM framework was followed.
 
 
 # License
-[(Back to top)](#table-of-contents)
 
 [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
