@@ -22,15 +22,6 @@ To use this project, first clone the repo on your device by pasting the commands
 [(Back to top)](#table-of-contents)
 
 CRISP-DM framework was followed.
-<figure>
-  <img
-  src="https://github.com/KetanThakare/employee-attrition-predictor/blob/main/Pictures/CRISP-DM.png"
-  alt="CRISP-DM">
-  <figcaption>Kenneth Jensens image describing the CRISP-DM steps</figcaption>
-</figure>
-
-\
-&nbsp;
 
 **Business and Data understanding:** The dataset used can be found [here](Marketing_data.csv).
 
