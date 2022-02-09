@@ -1,4 +1,5 @@
 # Customer Segmentation
+In this project, we assume a hypothetical scenario wherein we are part of marketing department at a bank. Our task is to segment the customer base into different categories for targeted marketing campaign. K-means algorithm is used for customer segmentation. 
 
 # Table of contents
 - [Usage](#usage)
