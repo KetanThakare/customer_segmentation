@@ -17,6 +17,7 @@
 [(Back to top)](#table-of-contents)
 
 To use this project, first clone the repo on your device by pasting the commands below:
+
 ```git init```
 
 ```git clone https://github.com/KetanThakare/customer_segmentation.git```
