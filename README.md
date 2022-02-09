@@ -10,23 +10,16 @@
 # Installation
 [(Back to top)](#table-of-contents)
 
-To use this project, first clone the repo on your device by pasting the commands below:
 
-```git init```
 
-```git clone https://github.com/KetanThakare/customer_segmentation.git```
-
-Once you run the app.py, the website would start running on local deploymentt server. Then, enter local server address (e.g. https://) to visit the webapp. 
-(You might have to install the required packages mentioned in [requriments](requirements.txt) document.)
 
 # Usage
 [(Back to top)](#table-of-contents)
 
-The webapp is intuitive and should be easy to use. 
+To use this project, first clone the repo on your device by pasting the commands below:
+```git init```
 
-The steps to use the app:
-1. Enter the employee's information in the text fields which are input variables for our ML model.  
-2. Hit the **Predict** button to see the result. 
+```git clone https://github.com/KetanThakare/customer_segmentation.git```
 
 
 
@@ -44,16 +37,11 @@ CRISP-DM framework was followed.
 \
 &nbsp;
 
-**Business and Data understanding:** The dataset used can be found [here](Notebooks/Human_Resources.csv) and was sourced from Kaggle.
+**Business and Data understanding:** The dataset used can be found [here](Marketing_data.csv) and was sourced from Kaggle.
 
-**Data Preparation:** The notebook can be found [here](Notebooks/Data%20Preparation.ipynb)
+**Data Preparation:** The notebook can be found [here](EDA.ipynb)
 
-**Modeling and Evaluation:** [This notebook](Noteboks/Modeling%20and%20Evaluation.ipynb) decribes model creation and evalutaion.
-
-**Deployment:** The web-app described has been created to run on local deployment server.
-
-_(The eventual idea is to deploy the model on AWS server so it's accesible via internet.)_ 
-
+**Modeling and Evaluation:** [This notebook](Market%20segmentation%20using%20K-means.ipynb) decribes model creation and evalutaion using K-means algorithm. [This notebook](PCA%20and%20result%20visualization) shows PCA and subsquent result visualization. 
 
 
 # License
